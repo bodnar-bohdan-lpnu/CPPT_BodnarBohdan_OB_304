@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * Клас Lab1ПрізвищеГрупа реалізує лабораторну роботу №1
+ * Клас Lab1BodnarKI_304 реалізує лабораторну роботу №1
  * */
 public class Lab1BodnarKI_304 {
     /**
